@@ -22,12 +22,12 @@
 }
 /* makes the font 33% larger relative to the icon container */
 .fa-lg {
-  font-size: 1.33333333em;
+  font-size: 10.33333333em;
   line-height: 0.75em;
   vertical-align: -15%;
 }
 .fa-2x {
-  font-size: 2em;
+  font-size: 10em;
 }
 .fa-3x {
   font-size: 3em;
@@ -43,8 +43,9 @@
   text-align: center;
 }
 .fa-ul {
+  font-size: 1.05em;
   padding-left: 0;
-  margin-left: 2.14285714em;
+  margin-left: 1.14285714em;
   list-style-type: none;
 }
 .fa-ul > li {
